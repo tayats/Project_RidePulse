@@ -1,0 +1,2 @@
+[RIDE-101] Alice Smith | Central Station -> Airport (15,0 km) | $29,75 (Standard Fare) | Driver: Unassigned | Status: REQUESTED
+[RIDE-102] Bob Jones | Downtown Mall -> Sports Stadium (8,0 km) | $27,00 (Surge Fare) | Driver: Unassigned | Status: REQUESTED
